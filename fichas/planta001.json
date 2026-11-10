@@ -1,0 +1,9 @@
+{
+  "_id": "planta001",
+  "tipo": "planta",
+  "nombre": "girasol",
+  "descripcion": "Una flor grande que siempre mira hacia el sol",
+  "riego": "una vez por semana",
+  "luz": "mucho sol",
+  "estado": "publicado"
+}
