@@ -1,0 +1,9 @@
+{
+  "_id": "animal001",
+  "tipo": "animal",
+  "nombre": "rana arborícola",
+  "descripcion": "Una ranita pequeña que vive en los árboles",
+  "habitat": "bosque húmedo",
+  "dieta": "insectos",
+  "estado": "publicado"
+}
